@@ -6,7 +6,7 @@
 Programming Languages: C, Java, Python, HTML, CSS <br>
 Frameworks & Libraries: Django <br>
 Additional Expertise: Assembly Language, Web Development <br>
-
+<br>
 🌱 I am continuously learning and exploring new areas of technology to enhance my skills. Currently, I am focusing on full-stack web development, refining my knowledge of algorithms and data structures, and working on innovative projects that integrate my programming expertise. <br>
 
 🚀 With a strong passion for coding and a love for solving complex problems, I enjoy working on both personal and collaborative projects that make a real-world impact. I’m always eager to take on challenging tasks that push the boundaries of my technical skills. <br>
