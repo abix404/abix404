@@ -2,10 +2,11 @@
 <h2 align="center">A passionate Computer Science and Engineering (CSE) student at the University of Asia Pacific.</h2>
 <h3 align="left">
 💻 I am a dedicated programmer and problem solver with a keen interest in software development and technology. I have a solid foundation in a variety of programming languages and frameworks: <br>
-
+<br>
 Programming Languages: C, Java, Python, HTML, CSS <br>
 Frameworks & Libraries: Django <br>
 Additional Expertise: Assembly Language, Web Development <br>
+
 🌱 I am continuously learning and exploring new areas of technology to enhance my skills. Currently, I am focusing on full-stack web development, refining my knowledge of algorithms and data structures, and working on innovative projects that integrate my programming expertise. <br>
 
 🚀 With a strong passion for coding and a love for solving complex problems, I enjoy working on both personal and collaborative projects that make a real-world impact. I’m always eager to take on challenging tasks that push the boundaries of my technical skills. <br>
