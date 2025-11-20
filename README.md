@@ -74,12 +74,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abix404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abix404&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abix404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
@@ -87,7 +87,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abix404&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
 </div>
 
 <br>
@@ -95,7 +95,7 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abix404&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br>
