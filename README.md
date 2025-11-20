@@ -10,8 +10,8 @@
 <h3 align="center">University of Asia Pacific</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=abix404&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/abix404?label=Followers&style=social" alt="followers" />
 </p>
 
 <br>
@@ -37,7 +37,9 @@ me.say_hi()
 
 <br>
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Arsenal
 
 <table align="center">
@@ -116,14 +118,6 @@ me.say_hi()
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abix404&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-</div>
-
-<br>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -151,7 +145,7 @@ me.say_hi()
   <a href="https://instagram.com/abix404" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/abix404" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
@@ -164,8 +158,13 @@ me.say_hi()
 ## 🐍 Watch My Contribution Snake Eat All My Contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abix404/abix404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abix404/abix404/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abix404/abix404/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abix404/abix404/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+<br>
 
 <br>
 <div align="center">
@@ -180,6 +179,6 @@ me.say_hi()
 
 <div align="center">
   
-  ⭐️ From [Bokhtear Md Abid](https://github.com/yourusername) | Made with 💙 and ☕
+  ⭐️ From [Bokhtear Md Abid](https://github.com/abix404) | Made with 💙 and ☕
   
 </div>
