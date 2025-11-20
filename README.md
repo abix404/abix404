@@ -25,8 +25,8 @@ class BokhtearAbid:
         self.role = "Computer Science & Engineering Student"
         self.university = "University of Asia Pacific"
         self.location = "Dhaka, Bangladesh"
-        self.interests = ["Software Engineering", "Web Development", 
-                         "Embedded Systems", "Artificial Intelligence"]
+        self.interests = ["Software Engineering", "Web Development", "App Devlopment",
+                         "Machine Learning", "Artificial Intelligence"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
